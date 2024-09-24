@@ -5,3 +5,5 @@ Pug
 Raja
 Sekar
 Ravi
+somu
+kiruba
